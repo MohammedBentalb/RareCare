@@ -1,0 +1,3 @@
+[submodule "rareCare-gateway"]
+	path = rareCare-gateway
+	url = https://github.com/MohammedBentalb/rareCare-gateway
