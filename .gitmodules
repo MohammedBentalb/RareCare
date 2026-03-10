@@ -1,3 +1,6 @@
 [submodule "rareCare-gateway"]
 	path = rareCare-gateway
 	url = https://github.com/MohammedBentalb/rareCare-gateway
+[submodule "Patient-service"]
+	path = Patient-service
+	url = https://github.com/moussaoui914/Patient-service.git
