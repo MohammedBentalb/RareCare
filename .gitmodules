@@ -4,3 +4,6 @@
 [submodule "Patient-service"]
 	path = Patient-service
 	url = https://github.com/moussaoui914/Patient-service.git
+[submodule "maladies-service"]
+	path = maladies-service
+	url = https://github.com/XProjectLabs/maladies-service.git
