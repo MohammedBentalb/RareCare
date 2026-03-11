@@ -10,3 +10,6 @@
 [submodule "dossiermedicaux-service"]
 	path = dossiermedicaux-service
 	url = https://github.com/ouslimaneabdelilah/dossiermedicaux-service.git
+[submodule "Traitement-Service"]
+	path = Traitement-Service
+	url = https://github.com/elhoucine20/Traitement-Service.git
