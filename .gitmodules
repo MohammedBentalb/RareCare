@@ -7,3 +7,6 @@
 [submodule "maladies-service"]
 	path = maladies-service
 	url = https://github.com/XProjectLabs/maladies-service.git
+[submodule "dossiermedicaux-service"]
+	path = dossiermedicaux-service
+	url = https://github.com/ouslimaneabdelilah/dossiermedicaux-service.git
